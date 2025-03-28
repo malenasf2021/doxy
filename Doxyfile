@@ -1,0 +1,6 @@
+PROJECT_NAME           = "Mi Proyecto"
+OUTPUT_DIRECTORY       = "docs"
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+INPUT                 = "src/"
+RECURSIVE             = YES
