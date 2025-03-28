@@ -1,6 +1,129 @@
-PROJECT_NAME           = "Mi Proyecto"
-OUTPUT_DIRECTORY       = "docs"
-GENERATE_HTML          = YES
-GENERATE_LATEX         = NO
-INPUT                 = "src/"
-RECURSIVE             = YES
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+<div style="font-family: 'tahoma' , 'new york' , 'times' , serif; font-size: 12pt; color: #000000;">
+<div style="max-width: 600px; margin: 0 auto; padding: 20px; background-color: #ffffff; border: 1px solid #dddddd; font-family: 'arial' , sans-serif;">
+<div style="text-align: center; padding: 10px 0; background-color: #0d81b3; color: #ffffff;">
+<h1 style="margin: 0;">Curso: Nombre del curso</h1>
+</div>
+<div style="padding: 20px; color: #333333;">
+<p>&iexcl;Bienvenido/a!</p>
+<p style="text-align: justify; line-height: 1.5;">Con motivo de dar inicio al curso <strong>&ldquo;Nombre del curso&rdquo; - Grupo x!</strong> , en modalidad <strong>virtual</strong>, a trav&eacute;s de la <strong>plataforma educativa del Departamento de Formaci&oacute;n</strong>, te hacemos llegar algunas consideraciones y pautas de trabajo para que realices la cursada con &eacute;xito.<br />Para realizar el curso te aconsejamos el <strong>uso de una computadora personal</strong> (de escritorio o port&aacute;til). Con los dispositivos m&oacute;viles como los celulares se pueden presentar problemas de visualizaci&oacute;n en pantalla.</p>
+<p><strong>Este mensaje contiene informaci&oacute;n para:</strong></p>
+<a href="#ingresar" style="display: block; padding: 10px 20px; margin: 8px 0; background-color: #009bdb; color: #ffffff; text-decoration: none; border-radius: 5px;" rel="nofollow">1. Ingresar a la plataforma educativa</a> 
+<a href="#matricular" style="display: block; padding: 10px 20px; margin: 8px 0; background-color: #009bdb; color: #ffffff; text-decoration: none; border-radius: 5px;" rel="nofollow">2. Una vez en la plataforma educativa</a> 
+<a href="#programacion" style="display: block; padding: 10px 20px; margin: 8px 0; background-color: #009bdb; color: #ffffff; text-decoration: none; border-radius: 5px;" rel="nofollow">3. Programaci&oacute;n de la actividad de capacitaci&oacute;n</a> 
+<a href="#aula" style="display: block; padding: 10px 20px; margin: 8px 0; background-color: #009bdb; color: #ffffff; text-decoration: none; border-radius: 5px;" rel="nofollow">4. Primeros pasos en el aula virtual del curso </a> 
+<a href="#guias" style="display: block; padding: 10px 20px; margin: 8px 0; background-color: #009bdb; color: #ffffff; text-decoration: none; border-radius: 5px;" rel="nofollow">5. Acceso a gu&iacute;as y ayudas</a>
+<hr />
+<p><strong id="ingresar" style="display: block; padding: 10px 20px; margin: 8px 0; background-color: #009bdb; color: #ffffff; text-decoration: none; border-radius: 5px;">1. Ingresar a la plataforma educativa</strong></p>
+<ul style="list-style-type: disc; padding-left: 20px;">
+<li><strong>Accede a:</strong> <a href="https://capacitacion.anep.edu.uy/moodle/" style="color: #0073e6; text-decoration: none;" target="_blank" rel="nofollow noopener noreferrer">plataforma educativa del Departamento de Formaci&oacute;n de ANEP</a></li>
+<li>Navega a la opci&oacute;n "<strong>Acceder</strong>"</li>
+<li>Escribe tu <strong>n&uacute;mero de c&eacute;dula</strong> sin puntos ni guiones (ej: 12345678) como nombre de usuario para ingresar</li>
+</ul>
+<p></p>
+<table style="width: 100%; border-collapse: collapse; border: 1px solid #ddd; font-family: 'arial' , sans-serif; background-color: #ffffff;">
+<tbody>
+<tr style="background-color: #f2f3f4; color: #515151; text-align: center;">
+<th style="padding: 10px; border: 1px solid #ddd; font-size: 16px; font-weight: bold; color: #515151;">Si tu ingreso es por primera vez:</th>
+<th style="padding: 10px; border: 1px solid #ddd; font-size: 16px; font-weight: bold; color: #515151;">Si ya tienes un usuario:</th>
+</tr>
+<tr>
+<td style="padding: 10px; border: 1px solid #ddd; font-size: 14px; background-color: #f2f3f4; color: #515151;">La contrase&ntilde;a inicial es: <strong style="color: #515151;">cambiame</strong></td>
+<td style="padding: 10px; border: 1px solid #ddd; font-size: 14px; background-color: #f2f3f4; color: #515151;">Ingresa tu contrase&ntilde;a habitual.</td>
+</tr>
+<tr>
+<td style="padding: 10px; border: 1px solid #ddd; font-size: 14px; background-color: #f2f3f4; color: #515151;">Luego cambia la contrase&ntilde;a (debe tener al menos 8 caracteres y contener una min&uacute;scula, una may&uacute;scula y un d&iacute;gito).</td>
+<td style="padding: 10px; border: 1px solid #ddd; font-size: 14px; background-color: #f2f3f4; color: #515151;">Si no la recuerdas, revisa el instructivo para resetearla ubicado al final de este correo.</td>
+</tr>
+</tbody>
+</table>
+<hr/>
+<p><strong id="matricular" style="display: block; padding: 10px 20px; margin: 8px 0; background-color: #009bdb; color: #ffffff; text-decoration: none; border-radius: 5px;">2. Una vez en la plataforma educativa</strong></p>
+<table style="width: 100%; border-collapse: collapse; border: 1px solid #ddd; font-family: 'arial' , sans-serif; background-color: #ffffff;">
+<tbody>
+<tr style="background-color: #f2f3f4; color: #515151; text-align: center;">
+<th style="padding: 10px; border: 1px solid #ddd; font-size: 16px; font-weight: bold;">Realiza el m&oacute;dulo familiarizaci&oacute;n:</th>
+<th style="padding: 10px; border: 1px solid #ddd; font-size: 16px; font-weight: bold;">Matric&uacute;late en el curso correspondiente:</th>
+</tr>
+<tr style="background-color: #f2f3f4; color: #515151;">
+<td style="padding: 10px; border: 1px solid #ddd; font-size: 14px;">Si es la primera vez que usas la plataforma, te sugerimos la matriculaci&oacute;n al m&oacute;dulo de familiarizaci&oacute;n, que tiene el objetivo de que te interiorices con la Plataforma Educativa y las buenas pr&aacute;cticas para interactuar y aprender en entornos virtuales.</td>
+<td style="padding: 10px; border: 1px solid #ddd; font-size: 14px;">Luego navega al espacio de la plataforma, correspondiente a la capacitaci&oacute;n en la que te inscribiste.</td>
+</tr>
+<tr style="background-color: #f2f3f4; color: #515151;">
+<td rowspan="2" style="padding: 10px; border: 1px solid #ddd; font-size: 14px;">Accede al curso: <strong style="color: #0073e6;"><a href="https://capacitacion.anep.edu.uy/moodle/course/view.php?id=553" rel="noopener nofollow noopener noreferrer" target="_blank">link curso</a></strong><br />La clave de matriculaci&oacute;n es: <strong style="color: #0073e6;">plataforma</strong><br />Selecciona el bot&oacute;n <strong>[Matricularme en este curso]</strong></td>
+<td style="padding: 10px; border: 1px solid #ddd; font-size: 14px;">Accede al curso: <strong style="color: #0073e6;"><a href="#" target="_blank" rel="noopener nofollow noopener noreferrer">link curso</a></strong><br />La clave de matriculaci&oacute;n es: <strong style="color: #0073e6;">clave</strong><br />Selecciona el bot&oacute;n <strong>[Matricularme en este curso]</strong>.</td>
+</tr>
+<tr style="background-color: #f2f3f4; color: #515151;">
+<td style="padding: 10px; border: 1px solid #ddd; font-size: 14px;">Verifica la <strong>actualizaci&oacute;n del perfil</strong> de usuario (actividad obligatoria que condiciona tu continuidad en el curso).</td>
+</tr>
+<tr style="background-color: #f2f3f4; color: #515151;">
+<td style="padding: 10px; border: 1px solid #ddd; font-size: 14px; font-weight: bold;">Las actividades de este m&oacute;dulo son optativas y no inciden en la calificaci&oacute;n de la capacitaci&oacute;n.</td>
+<td style="padding: 10px; border: 1px solid #ddd; font-size: 14px;"><strong>Plazo para matricularte y completar el perfil de usuario:</strong> hasta el 3/03/2025.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p><strong id="programacion" style="display: block; padding: 10px 20px; margin: 8px 0; background-color: #009bdb; color: #ffffff; text-decoration: none; border-radius: 5px;">3. Programación de la actividad de capacitación</strong></p>
+<ul style="list-style-type: disc; padding-left: 20px;">
+<li><strong>Inicio:</strong> 01 de marzo de 2025</li>
+<li><strong>Fin:</strong> 31 de marzo de 2025</li>
+<li><strong>Duraci&oacute;n:</strong> 2 semanas</li>
+<li><strong>Carga horaria:</strong> 10 horas</li>
+<li><strong>Encuentros por videoconferencia:</strong> 5 y 12 de marzo de 19 a 20 horas.</li>
+</ul>
+<hr />
+<p><strong id="aula" style="display: block; padding: 10px 20px; margin: 8px 0; background-color: #009bdb; color: #ffffff; text-decoration: none; border-radius: 5px;">4. Primeros pasos en el aula virtual del curso</strong></p>
+<ul style="list-style-type: disc; padding-left: 20px;">
+<li>Revisa los <strong> "Avisos"</strong> en <strong> ANUNCIOS</strong> y <strong> NOVEDADES.</strong></li>
+<li>Consulta la <strong>Gu&iacute;a del alumno</strong> y los <strong>video tutoriales</strong></li>
+<li>Recuerda que sin la <strong>actualizaci&oacute;n del perfil</strong> de usuario no podr&aacute;s continuar con la capacitaci&oacute;n.</li>
+</ul>
+<hr />
+<p><strong id="guias" style="display: block; padding: 10px 20px; margin: 8px 0; background-color: #009bdb; color: #ffffff; text-decoration: none; border-radius: 5px;">5. Acceso a guías y ayudas</strong></p>
+<table style="width: 100%; max-width: 800px; margin: 0 auto; border-collapse: collapse; font-family: 'arial' , sans-serif;">
+<tbody>
+<tr>
+<td style="width: 33.33%; padding: 5px; text-align: center;">
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; background-color: #0d81b3; box-shadow: 2px 2px 5px rgba( 0 , 0 , 0 , 0.1 ); min-height: 100px;"><strong style="color: #f2f3f4;">Acceso directo a la plataforma educativa</strong> 
+<br>
+<a href="https://capacitacion.anep.edu.uy/moodle/" style="color: #f2f3f4; text-decoration: none; font-weight: bold; margin-top: 5px;" target="_blank" rel="nofollow noopener noreferrer">M&aacute;s info (+)</a></div>
+</td>
+<td style="width: 33.33%; padding: 5px; text-align: center;">
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; background-color: #0d81b3; box-shadow: 2px 2px 5px rgba( 0 , 0 , 0 , 0.1 ); min-height: 100px;"><strong style="color: #f2f3f4;">Primeros pasos en el aula virtual</strong> 
+<br>
+<a href="https://capacitacion.anep.edu.uy/moodle/pluginfile.php/78/mod_label/intro/Gu%C3%ADa%20de%20uso%20de%20la%20Plataforma%20Educativa%202025.pdf?time=1742842140938" style="color: #f2f3f4; text-decoration: none; font-weight: bold; margin-top: 5px;" target="_blank" rel="nofollow noopener noreferrer">M&aacute;s info (+)</a></div>
+</td>
+<td style="width: 33.33%; padding: 5px; text-align: center;">
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; background-color: #0d81b3; box-shadow: 2px 2px 5px rgba( 0 , 0 , 0 , 0.1 ); min-height: 100px;"><strong style="color: #f2f3f4;">Gu&iacute;a para acceder a la plataforma</strong> 
+<br>
+<a href="https://youtu.be/u4F0aorz61E" style="color: #f2f3f4; text-decoration: none; font-weight: bold; margin-top: 5px;" target="_blank" rel="nofollow noopener noreferrer">M&aacute;s info (+)</a></div>
+</td>
+</tr>
+<tr>
+<td style="width: 33.33%; padding: 5px; text-align: center;">
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; background-color: #0d81b3; box-shadow: 2px 2px 5px rgba( 0 , 0 , 0 , 0.1 ); min-height: 100px;"><strong style="color: #f2f3f4;">Tutorial para resetear contrase&ntilde;a</strong> 
+<br>
+<a href="https://youtu.be/3xWbfXXNKp8" style="color: #f2f3f4; text-decoration: none; font-weight: bold; margin-top: 5px;" target="_blank" rel="nofollow noopener noreferrer">M&aacute;s info (+)</a></div>
+</td>
+<td style="width: 33.33%; padding: 5px; text-align: center;">
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; background-color: #0d81b3; box-shadow: 2px 2px 5px rgba( 0 , 0 , 0 , 0.1 ); min-height: 100px;"><strong style="color: #f2f3f4;">C&oacute;mo matricularse en la capacitaci&oacute;n</strong> 
+<br>
+<a href="https://youtu.be/u4F0aorz61E" style="color: #f2f3f4; text-decoration: none; font-weight: bold; margin-top: 5px;" target="_blank" rel="nofollow noopener noreferrer">M&aacute;s info (+)</a></div>
+</td>
+<td style="width: 33.33%; padding: 5px; text-align: center;">
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; background-color: #0d81b3; box-shadow: 2px 2px 5px rgba( 0 , 0 , 0 , 0.1 ); min-height: 100px;"><strong style="color: #f2f3f4;">Actualizar el perfil de usuario</strong> 
+<br>
+<a href="https://youtu.be/PVYTBt4hYpw" style="color: #f2f3f4; text-decoration: none; font-weight: bold; margin-top: 5px;" target="_blank" rel="nofollow noopener noreferrer">M&aacute;s info (+)</a></div>
+</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<p class="style1"><strong>Nota: </strong><em>una vez iniciada la capacitaci&oacute;n, no respondas a las notificaciones a trav&eacute;s del correo electr&oacute;nico. En su lugar, utiliza los foros o la mensajer&iacute;a interna de la plataforma educativa para gestionar todas las comunicaciones.</em></p>
+</div>
+<div style="text-align: center; padding: 10px 0; background-color: #f4f4f4; color: #777777; font-size: 12px;">
+<p>Si tienes alguna pregunta, no dudes en contactarnos a <a href="mailto:[Email%20de%20Contacto]" style="color: #0073e6;" target="_blank" rel="nofollow noopener noreferrer">formacion@anep.edu.uy</a>.</p>
+<p>Departamento de Formaci&oacute;n - ANEP - CODICEN. Tel. 29007070 int 4415.</p>
+</div>
+</div>
+</div>
